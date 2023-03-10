@@ -2,7 +2,7 @@
 a sample of login/register backend with django (created specific Usermodel and UserManager)
 
 # walkthrough
--first you need to make an virtualenv and install needed modules from requirements.txt into it.
+-if project dident worked on your system with my venv , you need to make an virtualenv and install needed modules from requirements.txt into it.
 -then use runserver command and enjoy it .
 
 # important
